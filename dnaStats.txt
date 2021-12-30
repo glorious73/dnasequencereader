@@ -1,0 +1,27 @@
+Sequence requested: thisissparta
+Sequence count: 23
+Sequence locations:
+Location 0: [17, 29]
+Location 1: [48, 60]
+Location 2: [80, 92]
+Location 3: [92, 104]
+Location 4: [155, 167]
+Location 5: [182, 194]
+Location 6: [296, 308]
+Location 7: [417, 429]
+Location 8: [429, 441]
+Location 9: [454, 466]
+Location 10: [489, 501]
+Location 11: [591, 603]
+Location 12: [648, 660]
+Location 13: [729, 741]
+Location 14: [751, 763]
+Location 15: [796, 808]
+Location 16: [964, 976]
+Location 17: [976, 988]
+Location 18: [1027, 1039]
+Location 19: [1077, 1089]
+Location 20: [1145, 1157]
+Location 21: [1198, 1210]
+Location 22: [1225, 1237]
+Execution time: 3475777 seconds.
