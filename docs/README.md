@@ -8,5 +8,5 @@ The purpose is to show that even the code of small projects can be clean and wel
 ## How To Run
 1. Clone or download the repository.
 2. Open the project containing folder in Net Beans, Intellij IDEA, or VS Code.
-3. Run `java Main.java`.
+3. Run the project as you'd usually do in your IDE.
 4. Follow the program instructions.
