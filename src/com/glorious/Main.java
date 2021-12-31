@@ -49,8 +49,8 @@ public class Main {
             }
             // 6. Recording ending time and duration
             long endTime = System.nanoTime();
-            long duration = (endTime - startTime)/1000;  //seconds.
-            resultToWrite += "Execution time: " + duration + " seconds.";
+            long duration = (endTime - startTime)/1000;  //milliseconds.
+            resultToWrite += "Execution time: " + duration + " milliseconds.";
             // 7. Use File Service to write the result to a stat file
             fileService.write(resultToWrite, "dnaStats.txt");
             // 8. Print out results
